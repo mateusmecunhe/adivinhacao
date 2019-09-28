@@ -8,7 +8,7 @@ print('******************')
 numero_secreto = random.randrange(1, 101)
 
 
-#print(numero_secreto)
+print(numero_secreto)
 
 contador = 1
 quantidade_de_tentativas = int(input('de quantas rodadas vc precisa?'))
